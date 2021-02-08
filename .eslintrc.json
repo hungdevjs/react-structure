@@ -31,6 +31,10 @@
             2,
             "all"
         ],
+        "object-curly-spacing": [
+            2,
+            "always"
+        ],
         "camelcase": [
             2,
             {
