@@ -10,9 +10,9 @@
         "react/react-in-jsx-scope": "off",
         "indent": [
             2,
-            2,
+            4,
             {
-                "SwitchCase": 1
+                "SwitchCase": 4
             }
         ],
         "linebreak-style": [
