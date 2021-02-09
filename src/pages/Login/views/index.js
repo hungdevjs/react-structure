@@ -1,6 +1,6 @@
 import { Button } from "reactstrap"
 
-import CommonInput from "../../../components/Inputs/CommonInput"
+import CommonInput from "../../../components/Inputs/views/CommonInput"
 
 import useLogin from "../hooks/useLogin"
 

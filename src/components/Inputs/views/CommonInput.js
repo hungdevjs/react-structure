@@ -2,8 +2,8 @@ import { useMemo } from "react"
 import PropTypes from "prop-types"
 import { AiFillEye, AiFillEyeInvisible } from "react-icons/ai"
 
-import { InputContainer, InputField } from "../../styles/input"
-import useToggle from "../../hooks/useToggle"
+import { InputContainer, InputField } from "../../../styles/input"
+import useToggle from "../../../hooks/useToggle"
 
 const CommonInput = props => {
     const { label, placeholder, type, value, setValue, isPassword, error, ...rest } = props
