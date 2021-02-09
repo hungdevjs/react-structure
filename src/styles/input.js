@@ -3,7 +3,7 @@ import styled from "styled-components"
 import { GRAY, RED } from "../helpers/colors"
 
 export const InputContainer = styled.div`
-    border-radius: 4px;
+    min-width: 300px;
     padding: 0 8px;
     box-shadow: 1px 1px rgba(0, 0, 0, 0.4);
     border-width: 2px;

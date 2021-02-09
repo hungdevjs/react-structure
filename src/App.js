@@ -1,7 +1,9 @@
 import "bootstrap/dist/css/bootstrap.min.css"
 
+import Login from "./pages/Login/views"
+
 const App = () => <div>
-    React App
+    <Login />
 </div>
 
 export default App
